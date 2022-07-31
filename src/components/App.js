@@ -34,7 +34,7 @@ function App() {
     return data;
   }
 
-  function handleCardClick(meals) {
+  function handleCardClick(meal) {
     // console.log("Meal Name: ",Meal.name);
   }
 

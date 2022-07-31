@@ -15,11 +15,11 @@ function Header() {
             </Link>
 
             <Link to={"/meals"}>
-                <Navbar.Text>Our Meals</Navbar.Text>
+                <Navbar.Text>Meals</Navbar.Text>
             </Link>
 
-            <Link to={"/Add your Meal"}>
-                <Button className="btn-custom" > Create meal </Button>
+            <Link to={"/create"}>
+                <Button className="btn-custom" > Add Meal </Button>
             </Link>
         </Container>
     </Navbar>
